@@ -1,0 +1,14 @@
+body {        
+    background-color:rgba(16, 123, 33, 0.87);
+    font-family: arial;
+    text-align: center;
+}
+div {
+    background-color:rgb(73, 252, 31);
+}
+label {
+    background-color:rgba(31, 252, 243, 0.67);
+}
+option {
+    background-color:rgb(3, 59, 245);
+}
